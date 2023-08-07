@@ -54,7 +54,7 @@ export const StyledProject = styled.article`
     font-weight: 600;
     font-size: 18px;
     padding: 0.3em 0.4em;
-    margin: 0 0.5em;
+    margin: 0.2em 0.5em;
     text-align: center;
     text-decoration: none;
     user-select: none;

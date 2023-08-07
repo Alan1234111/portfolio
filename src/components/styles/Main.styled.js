@@ -2,8 +2,8 @@ import styled from "styled-components";
 
 export const StyledMain = styled.main`
   height: 90vh;
-  margin: 2em;
-  padding: 0 2em;
+  margin: 1em;
+  padding: 0 1em;
   background-color: #19212f;
   overflow-y: auto;
 

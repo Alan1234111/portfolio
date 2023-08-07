@@ -4,7 +4,7 @@ import {slideTop} from "./Animations";
 export const StyledAbout = styled.section`
   position: relative;
   margin: 0 0.2em 0;
-  padding: 3.5em 1em;
+  padding: 1em;
   font-size: 0.8rem;
   background-blend-mode: overlay;
   background-color: #111827;
