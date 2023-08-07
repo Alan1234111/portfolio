@@ -96,7 +96,7 @@ export const StyledSidebar = styled.aside`
   }
 
   @media (min-width: 900px) {
-    margin: 2em;
+    margin: 1em;
     margin-right: 0;
     position: static;
     transform: translateX(0);
